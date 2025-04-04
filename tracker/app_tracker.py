@@ -65,7 +65,6 @@ class AppTracker:
 
         session_data = {
             "session_id": str(uuid.uuid4()),
-            "user_id": self.user_id,
             "start_time": datetime.fromtimestamp(self.start_time, tz=IST).isoformat(),
             "end_time": datetime.fromtimestamp(end_time, tz=IST).isoformat(),
             "duration": duration,
@@ -80,7 +79,7 @@ class AppTracker:
 
         # Save to MongoDB
         try:
-            save_session_to_mongo(session_data)
+            save_session_to_mongo(self.user_id, session_data)  # 👈 Pass user_id and session_data
         except Exception as e:
             print("❌ Failed to save session to MongoDB:", e)
 

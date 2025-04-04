@@ -11,14 +11,22 @@ client = pymongo.MongoClient(MONGO_URI)
 db = client["test"]
 collection = db["desk_usage"]
 
-def save_session_to_mongo(session_data):
-    """ Save the study session to MongoDB """
+def save_session_to_mongo(user_id, session_data):
+    """ Save the study session to MongoDB under the respective user_id """
     try:
-        if collection is None:  # ✅ Fix: Properly check if collection exists
+        if collection is None:
             print("❌ MongoDB Collection is None. Check database connection.")
             return False
 
-        collection.insert_one(session_data)
+        # Push session to the study_sessions array of the corresponding user_id
+        result = collection.update_one(
+            {"user_id": user_id},
+            {
+                "$push": {"study_sessions": session_data}
+            },
+            upsert=True
+        )
+
         print("✅ Session saved to MongoDB")
         return True
     except Exception as e:
