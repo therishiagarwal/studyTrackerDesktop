@@ -1,0 +1,478 @@
+{
+    "user_id": "b2fe4b40-5fbf-56d7-a3a2-10cb29fb7d31",
+    "study_sessions": [
+        {
+            "session_id": "7ceb5a1d-1ae7-47d4-ba12-af6960db71aa",
+            "start_time": "2025-04-04T23:42:33.992826+05:30",
+            "end_time": "2025-04-04T23:42:38.992902+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker"
+        },
+        {
+            "session_id": "25e288cb-a653-443c-bbe0-5063e7416b3e",
+            "start_time": "2025-04-04T23:42:39.000321+05:30",
+            "end_time": "2025-04-04T23:42:44.014849+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Task Switching"
+        },
+        {
+            "session_id": "519aca5f-0e7a-46fe-baa0-27b69d77ad73",
+            "start_time": "2025-04-04T23:42:44.015849+05:30",
+            "end_time": "2025-04-04T23:42:49.024234+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Document1 - Word"
+        },
+        {
+            "session_id": "7a03121f-a781-4155-a503-783f45aa15da",
+            "start_time": "2025-04-04T23:42:49.024234+05:30",
+            "end_time": "2025-04-04T23:42:50.109353+05:30",
+            "duration": 0.02,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker"
+        },
+        {
+            "session_id": "bbb86c6c-d544-47c2-a4b1-9d48a001cfa6",
+            "start_time": "2025-04-05T00:05:06.544637+05:30",
+            "end_time": "2025-04-05T00:05:11.735744+05:30",
+            "duration": 0.09,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker"
+        },
+        {
+            "session_id": "812fe4ae-6ecd-4049-9152-70edaddb896a",
+            "start_time": "2025-04-05T00:12:32.856147+05:30",
+            "end_time": "2025-04-05T00:12:37.869227+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker"
+        },
+        {
+            "session_id": "3b3c562e-6a3a-49db-9344-f35979cb4d2d",
+            "start_time": "2025-04-05T00:12:37.869227+05:30",
+            "end_time": "2025-04-05T00:12:42.871396+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "63cf3835-36c0-4e37-8168-6f4a5ad4425e",
+            "start_time": "2025-04-05T00:12:42.872502+05:30",
+            "end_time": "2025-04-05T00:12:47.875658+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Task Manager"
+        },
+        {
+            "session_id": "93ab2db8-b23a-450d-87e7-5c79936af5de",
+            "start_time": "2025-04-05T00:12:52.879929+05:30",
+            "end_time": "2025-04-05T00:12:57.890777+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Mail - RISHI AGARWAL - Outlook"
+        },
+        {
+            "session_id": "f8ba5b7a-929a-4d02-8362-dc2d4224c8b6",
+            "start_time": "2025-04-05T00:12:57.890777+05:30",
+            "end_time": "2025-04-05T00:13:02.904859+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "7ff36ab7-e784-41fc-9a77-f98899075197",
+            "start_time": "2025-04-05T00:13:02.905876+05:30",
+            "end_time": "2025-04-05T00:13:07.916298+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "ae4553da-2100-47b0-bafc-569714ef60fa",
+            "start_time": "2025-04-05T00:13:07.917013+05:30",
+            "end_time": "2025-04-05T00:13:12.923009+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Search"
+        },
+        {
+            "session_id": "7948647f-35ae-499e-9c83-4fd28f79a93b",
+            "start_time": "2025-04-05T00:13:12.923398+05:30",
+            "end_time": "2025-04-05T00:13:17.927490+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "593bb23f-37ea-4247-9306-07009035e9a2",
+            "start_time": "2025-04-05T00:13:17.927490+05:30",
+            "end_time": "2025-04-05T00:13:22.936625+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "076847b8-ba37-413f-a08c-0c6e1ae03e51",
+            "start_time": "2025-04-05T00:13:22.936625+05:30",
+            "end_time": "2025-04-05T00:13:24.105681+05:30",
+            "duration": 0.02,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker"
+        },
+        {
+            "session_id": "c3555be5-2c9e-4d10-9a98-d4fe91afb684",
+            "start_time": "2025-04-05T00:14:50.414129+05:30",
+            "end_time": "2025-04-05T00:14:55.419214+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "tracker.py - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "cca0fddb-6d63-4ff0-949b-64fa8221135f",
+            "start_time": "2025-04-05T00:14:55.419214+05:30",
+            "end_time": "2025-04-05T00:15:00.435066+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Task Manager"
+        },
+        {
+            "session_id": "ff554f7b-0050-4a66-ba0e-87bc7d6a8289",
+            "start_time": "2025-04-05T00:15:00.435723+05:30",
+            "end_time": "2025-04-05T00:15:10.453709+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "tracker.py - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "ec9de410-db19-40e3-a9dd-85f9a9fd2c58",
+            "start_time": "2025-04-05T00:15:10.453709+05:30",
+            "end_time": "2025-04-05T00:15:15.456697+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Visual Studio Code"
+        },
+        {
+            "session_id": "485a5153-8c7e-4008-bc25-37f3c6fdcd20",
+            "start_time": "2025-04-05T00:15:15.457335+05:30",
+            "end_time": "2025-04-05T00:15:30.477590+05:30",
+            "duration": 0.25,
+            "source": "desktop_app",
+            "activity": "session.json - desktop - Visual Studio Code"
+        },
+        {
+            "session_id": "1302d7fd-f412-45ba-9b67-69adb58cda1a",
+            "start_time": "2025-04-05T00:15:35.489121+05:30",
+            "end_time": "2025-04-05T00:15:40.489904+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Document1 - Word"
+        },
+        {
+            "session_id": "64acdfcb-5736-499c-9485-0626487815f2",
+            "start_time": "2025-04-05T00:24:29.864842+05:30",
+            "end_time": "2025-04-05T00:24:34.869309+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "e6faf850-61ef-49b6-9a36-6e413bd15d3e",
+            "start_time": "2025-04-05T00:24:34.869309+05:30",
+            "end_time": "2025-04-05T00:24:44.887062+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "Task Switching"
+        },
+        {
+            "session_id": "9c10f5ca-c95f-4806-aba4-b2f72911161d",
+            "start_time": "2025-04-05T00:24:44.887062+05:30",
+            "end_time": "2025-04-05T00:24:49.893764+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "f1c6530f-2919-4283-b3b6-9848b63ea480",
+            "start_time": "2025-04-05T00:24:49.893764+05:30",
+            "end_time": "2025-04-05T00:24:54.909256+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "43a4b853-917e-40c7-a0d0-144f6ef3c4f5",
+            "start_time": "2025-04-05T00:24:54.911262+05:30",
+            "end_time": "2025-04-05T00:24:59.921508+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Document1 - Word"
+        },
+        {
+            "session_id": "552b3fae-5031-4d2a-b3fa-c71f3401ebcc",
+            "start_time": "2025-04-05T00:24:59.922696+05:30",
+            "end_time": "2025-04-05T00:25:04.934105+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "1ca7ce96-18e3-4f22-9ec3-18b29641dcc6",
+            "start_time": "2025-04-05T00:25:04.934105+05:30",
+            "end_time": "2025-04-05T00:25:09.937133+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Task Switching"
+        },
+        {
+            "session_id": "f4e1dfe6-1773-4e49-a026-f8678f82b38a",
+            "start_time": "2025-04-05T00:25:09.938322+05:30",
+            "end_time": "2025-04-05T00:25:14.939577+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "26192beb-a975-410f-b20e-c4f6dd8635e4",
+            "start_time": "2025-04-05T00:27:42.702768+05:30",
+            "end_time": "2025-04-05T00:27:47.708830+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "app_tracker.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "472a62e1-831b-4dfb-a226-b79569360fec",
+            "start_time": "2025-04-05T00:27:47.708830+05:30",
+            "end_time": "2025-04-05T00:27:52.724910+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Search"
+        },
+        {
+            "session_id": "05e63080-6129-4644-a6c3-c9cddad1aa31",
+            "start_time": "2025-04-05T00:27:52.724910+05:30",
+            "end_time": "2025-04-05T00:27:57.728749+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "app_tracker.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "c3fdb259-47fa-4a6c-b3c0-828911b3d691",
+            "start_time": "2025-04-05T00:27:57.730250+05:30",
+            "end_time": "2025-04-05T00:28:07.745573+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "b7ae5011-feb5-4b7a-95fb-567ab43cd2cc",
+            "start_time": "2025-04-05T00:28:07.745573+05:30",
+            "end_time": "2025-04-05T00:28:12.750043+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "7357493e-bd4c-4db8-88fe-904ea0b93cb5",
+            "start_time": "2025-04-05T00:28:12.750043+05:30",
+            "end_time": "2025-04-05T00:28:22.762195+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "bd246a5d-fa32-4d20-a8a0-d644c9b33c23",
+            "start_time": "2025-04-05T00:28:22.763812+05:30",
+            "end_time": "2025-04-05T00:28:42.802750+05:30",
+            "duration": 0.33,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker App - Brave"
+        },
+        {
+            "session_id": "a08b87aa-7a17-4329-8ad1-2afb7f071577",
+            "start_time": "2025-04-05T00:28:42.803263+05:30",
+            "end_time": "2025-04-05T00:28:57.826257+05:30",
+            "duration": 0.25,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "258d75ec-9c8d-4bbb-b1dc-d7ab268288b2",
+            "start_time": "2025-04-05T00:28:57.826257+05:30",
+            "end_time": "2025-04-05T00:29:02.842845+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "44c373da-ce1b-4e2d-b8db-22521fc6d522",
+            "start_time": "2025-04-05T00:29:02.842845+05:30",
+            "end_time": "2025-04-05T00:29:07.846429+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "This PC and 1 more tab - File Explorer"
+        },
+        {
+            "session_id": "64a68f38-ee00-4f3d-82ab-d9eb24e46ab7",
+            "start_time": "2025-04-05T00:29:07.848414+05:30",
+            "end_time": "2025-04-05T00:29:27.865461+05:30",
+            "duration": 0.33,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "165e28fb-98dd-4ac6-8da7-f32416d5a6be",
+            "start_time": "2025-04-05T00:29:27.866956+05:30",
+            "end_time": "2025-04-05T00:29:32.875225+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "This PC and 1 more tab - File Explorer"
+        },
+        {
+            "session_id": "2a8bd76f-02de-4a7d-b9df-8dbaa327cbb8",
+            "start_time": "2025-04-05T00:29:32.875225+05:30",
+            "end_time": "2025-04-05T00:29:42.890795+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "StudyTracker and 1 more tab - File Explorer"
+        },
+        {
+            "session_id": "c0c02e76-7102-4d71-903e-93b4afe3ed54",
+            "start_time": "2025-04-05T00:29:42.890795+05:30",
+            "end_time": "2025-04-05T00:30:22.948406+05:30",
+            "duration": 0.67,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "50593ff5-3183-464b-ab2d-7d34ce68ea7c",
+            "start_time": "2025-04-05T00:40:36.012837+05:30",
+            "end_time": "2025-04-05T00:40:41.018576+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "5428d88a-086d-4182-afd0-41f8b075b316",
+            "start_time": "2025-04-05T00:40:41.018576+05:30",
+            "end_time": "2025-04-05T00:40:46.022651+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Document1 - Word"
+        },
+        {
+            "session_id": "2e09ddb6-4f78-4cdf-9438-e0bc4d4d94e5",
+            "start_time": "2025-04-05T00:40:46.022651+05:30",
+            "end_time": "2025-04-05T00:40:51.035476+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "main.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "df91e242-0421-4356-b613-d4fb4c678362",
+            "start_time": "2025-04-05T00:40:51.037237+05:30",
+            "end_time": "2025-04-05T00:40:56.051790+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "System tray overflow window."
+        },
+        {
+            "session_id": "eaa843b2-68bf-46a3-a331-d6dd0111ea39",
+            "start_time": "2025-04-05T00:41:11.687427+05:30",
+            "end_time": "2025-04-05T00:41:13.207222+05:30",
+            "duration": 0.03,
+            "source": "desktop_app",
+            "activity": "StudyTracker"
+        },
+        {
+            "session_id": "abc13c17-9f23-446b-8eb5-c5b6921e7caa",
+            "start_time": "2025-04-05T00:42:22.451374+05:30",
+            "end_time": "2025-04-05T00:42:25.708519+05:30",
+            "duration": 0.05,
+            "source": "desktop_app",
+            "activity": "StudyTracker"
+        },
+        {
+            "session_id": "fd00968c-a713-43b5-ae23-495c1911c9e2",
+            "start_time": "2025-04-05T00:42:22.451374+05:30",
+            "end_time": "2025-04-05T00:42:44.265904+05:30",
+            "duration": 0.36,
+            "source": "desktop_app",
+            "activity": "StudyTracker"
+        },
+        {
+            "session_id": "8b5210d1-ce56-4399-8f28-33e9b7fa48ce",
+            "start_time": "2025-04-05T00:54:53.983674+05:30",
+            "end_time": "2025-04-05T00:54:58.987566+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "gui.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "4652b42f-334b-4bdf-b519-a8caa5d8d934",
+            "start_time": "2025-04-05T00:54:58.989754+05:30",
+            "end_time": "2025-04-05T00:55:08.994633+05:30",
+            "duration": 0.17,
+            "source": "desktop_app",
+            "activity": "app_tracker.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "8ef6c899-72cf-4fc2-9672-8755e80d1a38",
+            "start_time": "2025-04-05T00:55:08.996022+05:30",
+            "end_time": "2025-04-05T00:58:29.310899+05:30",
+            "duration": 3.34,
+            "source": "desktop_app",
+            "activity": "Study Time Tracker App - Brave"
+        },
+        {
+            "session_id": "ddf34484-6dd0-483a-9839-0da2651ef7f0",
+            "start_time": "2025-04-05T00:58:29.310899+05:30",
+            "end_time": "2025-04-05T00:58:49.349669+05:30",
+            "duration": 0.33,
+            "source": "desktop_app",
+            "activity": "Task Switching"
+        },
+        {
+            "session_id": "82e14f55-df67-45d8-ac4b-7d1d0a7deb7a",
+            "start_time": "2025-04-05T00:58:49.351667+05:30",
+            "end_time": "2025-04-05T00:58:54.363129+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "study_tracker - File Explorer"
+        },
+        {
+            "session_id": "fbd58fcd-537b-40e3-8f61-fc04519f4a90",
+            "start_time": "2025-04-05T00:58:54.363129+05:30",
+            "end_time": "2025-04-05T00:58:59.365345+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "app_tracker.py - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "1d77ddda-e4cb-4b25-a63a-0ed3d3f4a2b2",
+            "start_time": "2025-04-05T00:58:59.365345+05:30",
+            "end_time": "2025-04-05T00:59:04.366452+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        },
+        {
+            "session_id": "e3091104-b3b7-4b17-8082-5b86f27811ac",
+            "start_time": "2025-04-05T00:59:04.366452+05:30",
+            "end_time": "2025-04-05T00:59:09.371316+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "Task Switching"
+        },
+        {
+            "session_id": "8eb260f9-e5a7-4f6e-9182-14f2ea4a50e8",
+            "start_time": "2025-04-05T00:59:09.372033+05:30",
+            "end_time": "2025-04-05T00:59:14.379163+05:30",
+            "duration": 0.08,
+            "source": "desktop_app",
+            "activity": "session.json - study_tracker - Visual Studio Code"
+        }
+    ],
+    "total_time_spent": 10.290000000000003
+}
