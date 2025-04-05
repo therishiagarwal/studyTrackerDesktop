@@ -1,6 +1,9 @@
 import os
 import json
 import uuid
+import tkinter as tk
+from tkinter import simpledialog
+
 
 APPDATA_DIR = os.path.join(os.getenv("APPDATA"), "StudyTracker")
 CONFIG_FILE = os.path.join(APPDATA_DIR, "user_config.json")
@@ -13,20 +16,23 @@ def ensure_directories():
 def get_or_create_user_id():
     ensure_directories()
 
-    # If user config exists, return stored values
     if os.path.exists(CONFIG_FILE):
         with open(CONFIG_FILE, "r") as f:
             config = json.load(f)
             return config["username"], config["user_id"]
 
-    # Ask for username only once
-    username = input("👤 Enter your username: ").strip()
+    # 🔥 Show GUI dialog to ask for username
+    root = tk.Tk()
+    root.withdraw()  # Hide the root window
+
+    username = simpledialog.askstring("Welcome!", "👤 Enter a unique username:")
+
     if not username:
-        username = "default_user"
+        messagebox.showerror("Error", "Username is required to continue.")
+        raise ValueError("Username is required.")
 
     user_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, username))
 
-    # Save to user config
     with open(CONFIG_FILE, "w") as f:
         json.dump({"username": username, "user_id": user_id}, f)
 
