@@ -16,9 +16,12 @@ class AppTracker:
     def __init__(self, user_id=None):
         ensure_directories()
         if not user_id:
-            username, user_id = get_or_create_user_id()
-            print(f"Tracking sessions for user: {username} (ID: {user_id})")
-        self.user_id = user_id
+            self.username, self.user_id = get_or_create_user_id()
+            print(f"👤 Tracking sessions for user: {self.username} (ID: {self.user_id})")
+        else:
+            self.username = None
+            self.user_id = user_id
+
         self.current_app = None
         self.start_time = None
         self.sessions = self.load_sessions()
@@ -61,7 +64,7 @@ class AppTracker:
         end_time = time.time()
         duration = round((end_time - self.start_time) / 60, 2)
 
-        print(f"⏱️ Saving session for {app_name}, Duration: {duration} minutes")
+        print(f"⏱️ Saving session for '{app_name}' | Duration: {duration} minutes")
 
         session_data = {
             "session_id": str(uuid.uuid4()),
@@ -79,7 +82,7 @@ class AppTracker:
 
         # Save to MongoDB
         try:
-            save_session_to_mongo(self.user_id, session_data)  # 👈 Pass user_id and session_data
+            save_session_to_mongo(self.user_id, session_data)
         except Exception as e:
             print("❌ Failed to save session to MongoDB:", e)
 
